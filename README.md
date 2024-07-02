@@ -1,0 +1,1 @@
+In this project, we used a Stacked LSTM model to predict TATAGLOBAL's future closing prices. Visualizing OHLC data with candlestick charts provided trading insights. Our model, with 100-timestep sequences, achieved an RMSE of <3% in forecasting. This highlights the model’s accuracy and the effectiveness of deep learning in stock price prediction.
